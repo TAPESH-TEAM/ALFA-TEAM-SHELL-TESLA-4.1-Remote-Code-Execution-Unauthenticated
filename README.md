@@ -8,5 +8,7 @@
 
 
 https://packetstormsecurity.com/files/165366/Alfa-Team-Shell-Tesla-4.1-Remote-Code-Execution.html
+
 https://cxsecurity.com/issue/WLB-2021120083
+
 https://0day.today/exploit/description/37159
